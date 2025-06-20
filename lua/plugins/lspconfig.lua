@@ -6,7 +6,7 @@ return {
         ruby_lsp = {
           mason = false,
           cmd = { "bundle", "exec", "ruby-lsp" },
-          root_dir = require("lspconfig.util").root_pattern("Gemfile", ".git", ".ruby-version"),
+          root_dir = require("lspconfig.util").root_pattern("Gemfile", ".git"),
         },
       },
     },
