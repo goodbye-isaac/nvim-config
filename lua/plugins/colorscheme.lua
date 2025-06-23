@@ -10,4 +10,8 @@ return {
 
   -- Hybrid
   { "w0ng/vim-hybrid" },
+
+  { "AlexvZyl/nordic.nvim" },
+  { "NTBBloodbath/doom-one.nvim" },
+  { "killitar/obscure.nvim" },
 }
