@@ -14,4 +14,5 @@ return {
   { "AlexvZyl/nordic.nvim" },
   { "NTBBloodbath/doom-one.nvim" },
   { "killitar/obscure.nvim" },
+  { "EdenEast/nightfox.nvim" },
 }
