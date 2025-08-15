@@ -15,4 +15,6 @@ return {
   { "NTBBloodbath/doom-one.nvim" },
   { "killitar/obscure.nvim" },
   { "EdenEast/nightfox.nvim" },
+  { "webhooked/kanso.nvim" },
+  { "vague2k/vague.nvim" },
 }

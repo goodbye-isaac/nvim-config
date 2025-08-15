@@ -1,5 +1,11 @@
 -- colorscheme を kanagawa にする例
 vim.cmd.colorscheme("kanagawa")
+--vim.cmd.colorscheme("nightfox")
+--vim.cmd.colorscheme("kanso")
+--vim.cmd.colorscheme("kanso-zen")
+--vim.cmd.colorscheme("kanso-mist")
+--vim.cmd.colorscheme("rose-pine")
+--vim.cmd.colorscheme("vague")
 
 -- 背景透過設定
 vim.cmd([[
